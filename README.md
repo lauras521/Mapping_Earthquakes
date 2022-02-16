@@ -42,4 +42,3 @@ A new dark base layer was displayed with the Mapbox API.  See image below:
   <img src = https://github.com/lauras521/Mapping_Earthquakes/blob/1939c93a47a32ab4912f96ad23d7c271a77c94c3/Earthquake_Challenge/Resources/dark_base_layer_d3.PNG>
 </p>
 
-https://lauras521.github.io/Mapping_Earthquakes/
