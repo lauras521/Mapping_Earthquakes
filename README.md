@@ -18,6 +18,9 @@ This image shows the base and overlay map filter options created throughout Deli
   <img src = https://github.com/lauras521/Mapping_Earthquakes/blob/155b42511180c4e91b0a6897094f5fd11301cafb/Earthquake_Challenge/Resources/view_of_overlays_and_base_maps.PNG>
 </p>
 
+## Resources
+All files used for this challenege can be found in the Earthquake_Challenge Folder.
+  https://github.com/lauras521/Mapping_Earthquakes/tree/main/Earthquake_Challenge
 
 ## Deliverable 1
 Tectonic plate data was read from the following GeoJSON using D3 and mapped using Linestrings.  An overlay map for Tectonic plates was created.  You can remove the tectonic plate data completely from the view, or you can show tectonic plate data across any base map (i.e. streets, satellite, or dark). 
